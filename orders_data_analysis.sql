@@ -77,4 +77,4 @@ LIMIT 1
 
 
 
-*.sql linguist-language=PLpgSQL
+$$ LANGUAGE plpgsql;
