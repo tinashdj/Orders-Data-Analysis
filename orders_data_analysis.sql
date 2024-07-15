@@ -74,3 +74,7 @@ SELECT *,
 FROM CTE2
 ORDER BY (sales_2023-sales_2022)*100/sales_2022 DESC
 LIMIT 1
+
+
+
+*.sql linguist-language=PLpgSQL
